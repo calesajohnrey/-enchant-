@@ -6,6 +6,7 @@ package Classes;
 
 import static java.lang.System.out;
 
+// This is JOHN REY CALESA'S code
 public class hourlyEmployee {
 
     private int empID;
