@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class Calculator
 
 
 {
@@ -13,8 +13,5 @@ public class Main
     int numB = input.nextInt();
     
     System.out.println(numA - numB);
-
-
-    
 	}
 }
